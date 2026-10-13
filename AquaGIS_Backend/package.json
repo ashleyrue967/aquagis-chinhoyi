@@ -1,0 +1,9 @@
+{
+  "name": "aquagis-chinhoyi-backend",
+  "version": "2.0.0",
+  "private": true,
+  "description": "AquaGIS Chinhoyi - Netlify Functions API with Netlify Blobs storage",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}
